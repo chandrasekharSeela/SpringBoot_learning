@@ -17,6 +17,7 @@ class YourBussinessClass {
     @Autowired
     Dependency2 dependency2;
 
+
     @Override
     public String toString() {
         return "using{" +
